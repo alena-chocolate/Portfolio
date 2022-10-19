@@ -1,7 +1,11 @@
-Ссылка на Tableau – Дашборд: https://public.tableau.com/app/profile/alena.kudekova/viz/__16641409751510/sheet4?publish=yes
+[Ссылка на Tableau – Дашборд](https://public.tableau.com/app/profile/alena.kudekova/viz/__16641409751510/sheet4?publish=yes)
+
 |
     
 Или:
-CURRENT https://public.tableau.com/views/__16641409751510/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+
+[CURRENT](https://public.tableau.com/views/__16641409751510/sheet4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 |
-ORIGINAL https://public.tableau.com/shared/Q7D54YR87?:display_count=n&:origin=viz_share_link
+
+[ORIGINAL](https://public.tableau.com/shared/Q7D54YR87?:display_count=n&:origin=viz_share_link)
